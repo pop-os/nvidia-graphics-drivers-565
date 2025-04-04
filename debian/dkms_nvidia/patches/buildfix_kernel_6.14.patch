@@ -1,7 +1,7 @@
-diff --git a/a/nvidia-drm/nvidia-drm-drv.c b/b/nvidia-drm/nvidia-drm-drv.c
+diff --git a/nvidia-drm/nvidia-drm-drv.c b/nvidia-drm/nvidia-drm-drv.c
 index 8f905f8..e88d9c2 100644
---- a/a/nvidia-drm/nvidia-drm-drv.c
-+++ b/b/nvidia-drm/nvidia-drm-drv.c
+--- a/nvidia-drm/nvidia-drm-drv.c
++++ b/nvidia-drm/nvidia-drm-drv.c
 @@ -76,6 +76,7 @@
  #endif
  
